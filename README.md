@@ -1,6 +1,8 @@
-### Advanced Programming Final Project
+# Advanced Programming Final Project
+
 ## Implementation of a system for library
-# Winter 2023
+
+### Winter 2023
 
 Summary of the project:
 In this project, you have to write the program of a library system, in such a way that people can register in the system and as
